@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "283392058959",
+    "firebase_url": "https://presidenciales2018-3095e.firebaseio.com",
+    "project_id": "presidenciales2018-3095e",
+    "storage_bucket": "presidenciales2018-3095e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283392058959:android:6f432e19c22519ff",
+        "android_client_info": {
+          "package_name": "cl.cooperativa.presidenciales2018"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283392058959-bd01cg77m0872poj5vvoag9qfu1rcp8i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.cooperativa.presidenciales2018",
+            "certificate_hash": "ad88ef1fef006fa8c1eb5a85f43f10b4448c1eb5"
+          }
+        },
+        {
+          "client_id": "283392058959-aqs4s2vogigia9kkeii89fmrtn396h57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUSPOnpnjav-WxMMDYU52inkIcdepehSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283392058959-aqs4s2vogigia9kkeii89fmrtn396h57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

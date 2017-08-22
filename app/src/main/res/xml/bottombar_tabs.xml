@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+
+    <tab
+        id="@+id/portada"
+        tittle="@string/tab_portada"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_action_home"/>
+
+    <tab
+        id="@+id/perfil"
+        tittle="@string/tab_perfil"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_action_user"/>
+
+    <tab
+        id="@+id/reportero"
+        tittle="@string/tab_reporteros"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_action_camera"/>
+
+    <tab
+        id="@+id/propuestas"
+        tittle="@string/tab_propuestas"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_action_document"/>
+
+    <tab
+        id="@+id/resultados"
+        tittle="@string/tab_resultados"
+        barColorWhenSelected="@color/colorPrimary"
+        icon="@drawable/ic_action_calculator"/>
+
+
+
+
+
+
+</tabs>

@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Presidenciales 2018 en Cooperativa</string>
+    <string name="title_activity_referencia">ReferenciaActivity</string>
+    <string name="hint_username">Nombre de Usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="text_button_login">Login</string>
+    <string name="dont_Have_Account">¿No tienes Cuenta?, </string>
+    <string name="create_here">Crea una Aquí</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_confirm_password">Confirmar Contraseña</string>
+    <string name="text_button_createaccount">Únete</string>
+    <string name="toolbar_tittle_create_account">Crear Cuenta</string>
+    <string name="username_Card">Rodrigo Vargas</string>
+    <string name="firstword_card">Hace</string>
+    <string name="timecard_card">4 días</string>
+    <string name="likenumber_card">10 me gusta</string>
+    <string name="tab_perfil">Perfil</string>
+    <string name="tab_propuestas">Propuestas</string>
+    <string name="tab_resultados">Resultados</string>
+    <string name="tab_reporteros">Elector Reportero</string>
+    <string name="tab_portada">Portada Elecciones</string>
+    <string name="action_settings">Acción de Menú</string>
+    <string name="facebook_app_id">1887714298216712</string>
+    <string name="fb_login_protocol_scheme">fb1887714298216712</string>
+
+
+
+    <string name="rationale_storage">This sample reads images from your camera to demonstrate uploading.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="secondword_detail">Me Gusta</string>
+    <string name="titleimagedetail">\"TitleImageDetail"</string>
+    <string name="lorem">\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi elementum pellentesque lectus ac cursus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.\"</string>
+    <string name="transitonname_picture">transitonname_picture</string>
+    <string name="create_account_button">Create Account</string>
+    <string name="signin_button">Sign In</string>
+    <string name="progress_downloading">Subiendo archivo, un momento por favor.</string>
+    <string name="success">Succes</string>
+    <string name="progress_uploading">Subiendo</string>
+    <string name="upload_success">Subida Exitosa</string>
+    <string name="upload_failure">Error, el arhivo no se ha subido</string>
+    <string name="download_success">Download Succes</string>
+    <string name="download_failure">Download Failure</string>
+    <string name="progress_auth">Autenticando</string>
+    <string name="hint_nombreRportero">Tu Nombre</string>
+    <string name="hint_apellidoReportero">Tu Apellido</string>
+    <string name="hint_mailReportero">Tu Correo</string>
+    <string name="subir_datos">Subir Datos</string>
+    <string name="hint_textoReportero">Tu Descripción</string>
+    <string name="tab_storage">Elector Reportero</string>
+</resources>
